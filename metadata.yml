@@ -1,0 +1,14 @@
+---
+:id: 102732046
+:submitters:
+- :name: Juno Park
+  :email: junopark2024@u.northwestern.edu
+- :name: Tianyi Wu
+  :email: tianyiwu2023@u.northwestern.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2021-12-01 05:45:41.323771000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2021-11-30 21:45:41.323771000 Z
+:status: processed
+:score: 94.0
